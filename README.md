@@ -1,1 +1,1 @@
-# kubia-website-example
+# simplewebsite
